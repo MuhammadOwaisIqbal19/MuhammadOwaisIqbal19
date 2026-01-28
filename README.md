@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Owais Iqbal  
 🎓 Undergraduate Computer Engineering Student  
 
-🚀 Passionate about building intelligent systems and scalable backend solutions.
-
 🌱 Currently learning & working on:  
 **AI • Machine Learning • Backend Systems • AWS**
 
